@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tamaramenezes@protonmail.com
+	name = Tamara Menezes
